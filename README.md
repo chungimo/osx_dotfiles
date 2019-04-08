@@ -2,7 +2,9 @@
 
 Configured dot files for myself.
 
-`echo "*" > .gitignore`
-`git add -f [.filename]`
+```
+echo "*" > .gitignore`
+git add -f [.filename]
+```
 
 
