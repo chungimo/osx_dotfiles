@@ -160,6 +160,9 @@ export PYTHONPATH="$PYTHONPATH:/usr/local/Cellar/qt/5.10.1/lib/QtPrintSupport.fr
 # Java environment variables
 export JAVA_HOME=$(/usr/libexec/java_home)
 
+# Terraform
+export PATH=$PATH:/Users/chung/terraform/terraform_app
+
 ##########################
 
 _complete_ssh_hosts ()
